@@ -1,13 +1,13 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Dhilna Fathima v 👋
 
 BSc Mathematics student with a passion for turning numbers into insights.
-Currently building my path toward **Data Analytics** and **Data Science**.
+Currently building my path toward **Data Analytics** and **Data Science** along with *MBA*.
 
 ---
 
 ## 🎯 Goal
 
-To leverage my mathematics foundation and growing programming skills to solve real-world problems through data — starting as a **Data Analyst** and growing into a **Data Scientist**.
+To leverage my mathematics foundation and growing programming skills to solve real-world problems through data, starting as a **Data Analyst** and growing into a **Data Scientist**.
 
 ---
 
@@ -74,7 +74,7 @@ To leverage my mathematics foundation and growing programming skills to solve re
 ## 📬 Connect with Me
 
 - 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: [your-email]
+- 📧 Email:dhilnafathm@gmail.com
 - 📊 Kaggle: [your-kaggle-profile]
 
 ---
